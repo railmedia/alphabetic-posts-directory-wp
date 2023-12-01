@@ -1,0 +1,3 @@
+.alphabetic-posts-dir{display:flex;flex-wrap:wrap}.alphabetic-posts-dir .letter{flex-basis:50%;margin:20px 0}.alphabetic-posts-dir .letter .char{font-weight:bold}.alphabetic-posts-dir-nav{display:flex;justify-content:space-between}.alphabetic-posts-dir-nav .letter{cursor:pointer;font-weight:bold}#alphabetic-posts-clear{cursor:pointer}
+
+/*# sourceMappingURL=front.css.map*/

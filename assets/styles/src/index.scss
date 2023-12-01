@@ -1,0 +1,23 @@
+.alphabetic-posts-dir {
+    display: flex;
+    flex-wrap: wrap;
+    .letter {
+        flex-basis: 50%;
+        margin: 20px 0;
+        .char {
+            font-weight: bold;
+        }
+    }
+    &-nav {
+        display: flex;
+        justify-content: space-between;
+        .letter {
+            cursor: pointer;
+            font-weight: bold;
+        }
+    }
+}
+
+#alphabetic-posts-clear {
+    cursor: pointer;
+}
